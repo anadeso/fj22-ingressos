@@ -53,7 +53,8 @@ public class CompraController {
 	@Transactional
 	public ModelAndView comprar(@Valid Cartao cartao, BindingResult result) {
 		ModelAndView modelAndView = new ModelAndView("redirect:/");
-
+		
+		this.carrinho.limpa();
 		if (cartao.isValido()) {
 			compraDao.save(carrinho.toCompra());
 			this.carrinho.limpa();
