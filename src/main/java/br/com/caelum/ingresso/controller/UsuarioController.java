@@ -3,7 +3,7 @@ package br.com.caelum.ingresso.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.transaction.annotation.Transactional;
-import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 import br.com.caelum.ingresso.helper.TokenHelper;
@@ -20,7 +20,7 @@ public class UsuarioController {
 	private TokenHelper tokenHelper;
 	
 
-	@GetMapping("/usuario/request")
+	@PostMapping("/usuario/request")
 	@Transactional
 	public ModelAndView solicitacaoDeAcesso(String email){
 		
