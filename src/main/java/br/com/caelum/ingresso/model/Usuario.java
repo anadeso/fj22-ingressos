@@ -23,6 +23,7 @@ public class Usuario implements UserDetails {
 
 	private String email;
 	private String password;
+	
 	@ManyToMany(fetch = FetchType.EAGER)
 	private Set<Permissao> permissoes = new HashSet<>();
 
