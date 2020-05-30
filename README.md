@@ -23,6 +23,7 @@ Principais funcionalidades implementadas:
 - JPA
 - MySQL
 - JSP com Bootstrap
+- jetty
 - jUnit
 
 # 🚀 Começando do zero
@@ -47,9 +48,36 @@ Principais funcionalidades implementadas:
 1. Vá no diretório do projeto, baixe as dependências e liste-as
 	- cd fj22-ingressos
 	- mvn dependency:resolve
-	
-	
-Obs: Caso precise de um auxílio com os comandos para o terminal, isso [aqui][aqui] é bem legal 😁
+	- mvn dependency:tree
+
+1. Empacote e rode (com jetty) a aplicação 
+	- mvn package
+	- mvn jetty:run
+	Caso queira rodar os dois comandos acima de uma única vez faça **mvn package jetty:run** 👌
+
+1. No navegador, acesse http://localhost:8080 e aproveite o sistema.
+
+1. E agora..como faço para parar o jetty 😳
+	- No terminal, pressione CTRL + C para interromper a execução do jetty
+	- Caso queira limpar o terminal digite clean e enter 
+
+1. E uma coisa bem importante, não esqueça de alterar para o seu usuário e senha do banco de dados lá no nosso spring-context.xml.xml
+
+```xml
+<bean id="mysqlDS" class="org.apache.commons.dbcp.BasicDataSource">
+	<property name="username" value="seu-usuario"/>
+	<property name="password" value="sua-senha"/>
+	<property name="url" value="jdbc:mysql://localhost/ingresso?createDatabaseIfNotExist=true
+"/>
+	<property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+</bean>
+```
+
+
+
+
+
+Obs: Caso precise de um auxílio com os comandos para o terminal, isso [aqui][aqui] pode ajudar 😁
 
 # 😻 Aplicação
 ![](https://i.imgur.com/CqAYBkp.png)
