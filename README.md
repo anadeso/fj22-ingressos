@@ -15,7 +15,7 @@ Principais funcionalidades implementadas:
 - Desenvolvendo segurança da aplicação.
 
 
-# 💼 Bibliotecas e tecnologias utilizadas:
+# 🧰 Bibliotecas e tecnologias utilizadas:
 - Java 
 - Maven
 - Spring MVC
