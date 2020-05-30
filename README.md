@@ -50,3 +50,5 @@ Principais funcionalidades implementadas:
 [MackOS]: https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-macosx-x64.dmg "MacOS"
 [Ubuntu, Debian, Mint]: https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-linux-x64.tar.gz "Ubuntu, Debian, Mint"
 [Fedora, CentOS]: https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-linux-x64.rpm "Fedora, CentOS"
+
+[Windows]: https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-community-5.7.28.0.msi "Windows"
