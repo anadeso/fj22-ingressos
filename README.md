@@ -25,6 +25,13 @@ Principais funcionalidades implementadas:
 - JSP com Bootstrap
 - jUnit
 
+# 🚀 Começando
+1. Download e Instalação do JAVA 8 (JDK)
+	- [Windows][Windows]
 
 
+# 😻 Aplicação
 ![](https://i.imgur.com/CqAYBkp.png)
+
+[IDE]: https://www.techemportugues.com/2016/06/16/java-os-5-melhores-ides-programar/ "IDE"
+[Windows]: https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-windows-x64.exe "Windows"
