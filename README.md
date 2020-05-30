@@ -67,8 +67,7 @@ Principais funcionalidades implementadas:
 <bean id="mysqlDS" class="org.apache.commons.dbcp.BasicDataSource">
 	<property name="username" value="seu-usuario"/>
 	<property name="password" value="sua-senha"/>
-	<property name="url" value="jdbc:mysql://localhost/ingresso?createDatabaseIfNotExist=true
-"/>
+	<property name="url" value="jdbc:mysql://localhost/ingresso?createDatabaseIfNotExist=true"/>
 	<property name="driverClassName" value="com.mysql.jdbc.Driver"/>
 </bean>
 ```
