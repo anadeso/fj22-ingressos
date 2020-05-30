@@ -21,7 +21,10 @@ Principais funcionalidades implementadas:
 - Spring MVC
 - Hibernate
 - JPA
+- Mysql
 - JSP com Bootstrap
 - jUnit
+
+
 
 ![](https://i.imgur.com/CqAYBkp.png)
