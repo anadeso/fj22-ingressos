@@ -43,7 +43,7 @@ Principais funcionalidades implementadas:
 
 1. Download e Instalação de uma [IDE][IDE] 
 
-# ⚙️ Gerenciando as dependências/build e executando aplicação
+# ⚙️ Gerenciando as dependências/build (com Maven) e executando aplicação
 
 1. Vá no diretório do projeto, baixe as dependências e liste-as
 	- cd fj22-ingressos
@@ -79,7 +79,16 @@ Principais funcionalidades implementadas:
 Obs: Caso precise de um auxílio com os comandos para o terminal, isso [aqui][aqui] pode ajudar 😁
 
 # 😻 Aplicação
-![](https://i.imgur.com/CqAYBkp.png)
+## Tela Inicial
+[![Tela Inicial](https://i.imgur.com/S16mruE.png "Tela Inicial")](https://i.imgur.com/S16mruE.png "Tela Inicial")
+## Cadastro de Filme
+[![Cadastro filme](https://i.imgur.com/3QxGipj.png "Cadastro filme")](https://i.imgur.com/3QxGipj.png "Cadastro filme")
+## Cadastro de Sala
+[![Cadastro de sala](https://i.imgur.com/2HIqfQx.png "Cadastro de sala")](https://i.imgur.com/2HIqfQx.png "Cadastro de sala")
+## Compra de Ingresso
+[![Compra Ingresso](https://i.imgur.com/xdhCzIk.png "Compra Ingresso")](https://i.imgur.com/xdhCzIk.png "Compra Ingresso")
+
+Estou evoluindo essa aplicação, diante disso aceito melhorias e sugestão de idéias 💡
 
 [IDE]: https://www.techemportugues.com/2016/06/16/java-os-5-melhores-ides-programar/ "IDE"
 [Windows]: https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-windows-x64.exe "Windows"
