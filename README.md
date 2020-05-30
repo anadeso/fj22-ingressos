@@ -78,7 +78,7 @@ Principais funcionalidades implementadas:
 
 Obs: Caso precise de um auxílio com os comandos para o terminal, isso [aqui][aqui] pode ajudar 😁
 
-# 😻 Aplicação
+# 🤓 Aplicação
 ## Tela Inicial
 [![Tela Inicial](https://i.imgur.com/S16mruE.png "Tela Inicial")](https://i.imgur.com/S16mruE.png "Tela Inicial")
 ## Cadastro de Filme
