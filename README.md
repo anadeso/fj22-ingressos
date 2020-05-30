@@ -88,7 +88,7 @@ Obs: Caso precise de um auxílio com os comandos para o terminal, isso [aqui][aq
 ## Compra de Ingresso
 [![Compra Ingresso](https://i.imgur.com/xdhCzIk.png "Compra Ingresso")](https://i.imgur.com/xdhCzIk.png "Compra Ingresso")
 
-Estou evoluindo essa aplicação, diante disso aceito melhorias e sugestão de idéias 💡
+Estou evoluindo aplicação, diante disso aceito melhorias e sugestão de idéias 💡
 
 [IDE]: https://www.techemportugues.com/2016/06/16/java-os-5-melhores-ides-programar/ "IDE"
 [Windows]: https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-windows-x64.exe "Windows"
