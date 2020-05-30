@@ -42,6 +42,15 @@ Principais funcionalidades implementadas:
 
 1. Download e Instalação de uma [IDE][IDE] 
 
+# ⚙️ Gerenciando as dependências/build e executando aplicação
+
+1. Vá no diretório do projeto, baixe as dependências e liste-as
+	- cd fj22-ingressos
+	- mvn dependency:resolve
+	
+	
+Obs: Caso precise de um auxílio com os comandos para o terminal, isso [aqui][aqui] é bem legal 😁
+
 # 😻 Aplicação
 ![](https://i.imgur.com/CqAYBkp.png)
 
@@ -52,3 +61,4 @@ Principais funcionalidades implementadas:
 [Fedora, CentOS]: https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-linux-x64.rpm "Fedora, CentOS"
 
 [Windows]: https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-community-5.7.28.0.msi "Windows"
+[aqui]: https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux/ "aqui"
