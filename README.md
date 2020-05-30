@@ -1,4 +1,4 @@
-#💻Aplicação - Venda de Ingressos
+#Aplicação - Venda de Ingressos
 Desenvolvi essa aplicação no curso realizado na Caelum [CURSO DESENVOLVENDO NA PRÁTICA COM SPRING E TESTES](https://www.caelum.com.br/curso-java-testes-spring-web-services-design-patterns?id=9233 "CURSO DESENVOLVENDO NA PRÁTICA COM SPRING E TESTES") no qual teve boas práticas de programação.
 
 Principais funcionalidades implementadas:
